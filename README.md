@@ -1,7 +1,7 @@
 # Drabinka turniejowa Ping-Pong
 
-  Sięgając pamięcią wstecz, bardzo często podczas zajęć WF, czy też, po prostu, gry 4Fun ze znajomymi
-zawsze po jakimś dłuższym okresie gry zaczynały się problemy i dywagacje na temat obecnej punktacji, podczas gry.
+  Sięgając pamięcią wstecz, bardzo często podczas zajęć WF, czy też, po prostu, gry 4Fun ze znajomymi,
+  po jakimś dłuższym okresie gry zaczynały się problemy i dywagacje na temat obecnej punktacji, podczas gry.
 Moja aplikacja wychodzi na przeciw temu problemowi, który, nie jeden raz, doprowadzał mnie do irytacji.
 Aplikacja będzie przeznaczona dla hosta/administratora turnieju, ze względu, chociażby na to, żeby zminimalizować, możliwość oszustwa.
 Ze znajomymi często nie mogliśmy dojść do wspólnego konsensusu, który z nas, oczywiście, z jak najbardziej obiektywnej strony,
